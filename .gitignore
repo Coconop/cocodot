@@ -1,0 +1,12 @@
+# Vim files
+*.swp
+*.swo
+vim/.vim/backups
+vim/.vim/plugged
+vim/.vim/undodir
+codelldb/codelldb_adapter
+neovim/nvim/lazy-lock.json
+neovim/nvim/undo
+*.log
+*.netrwhist
+bash/.bash_local.d/*
